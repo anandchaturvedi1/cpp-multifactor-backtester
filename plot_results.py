@@ -18,7 +18,7 @@ plt.tight_layout()
 plt.savefig("out/cumulative_returns.png", dpi=300)
 plt.show()
 
-# Optional: Summary stats
+# Summary stats
 total_return = df['cum_return'].iloc[-1] - 1
 daily_returns = df['long_short']
 sharpe = (daily_returns.mean() / daily_returns.std()) * (252 ** 0.5)

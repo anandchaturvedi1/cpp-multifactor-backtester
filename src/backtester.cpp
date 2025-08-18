@@ -7,7 +7,7 @@
 #include <unordered_map>
 #include <iostream>
 
-// Helper: sort unique dates ascending
+// sort unique dates ascending
 static std::vector<std::string> collectSortedDates(const std::vector<StockData>& data) {
     std::set<std::string> ds;
     for (const auto& r : data) ds.insert(r.date);
