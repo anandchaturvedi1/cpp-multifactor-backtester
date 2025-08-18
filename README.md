@@ -9,7 +9,7 @@ This repository contains a **C++-based multi-factor equity backtester** designed
 - Structure code for scalability, factor extensibility, and fast computation
 - Combine **quantitative finance concepts** with **robust software engineering**
 
-While much of my professional quant work has been in **Python, R, and kdb+/q**, this project showcases how I can translate research logic into **production-style C++ applications** — a key skill for hedge funds, prop shops, and systematic trading teams.
+While much of my professional quant work has been in **Python, R, and kdb+/q**, this project showcases how I can translate research logic into **production-style C++ applications** — a key skill for hedge funds, prop shops, and systematic trading teams that require both research insight and low-latency implementation.
 
 ---
 
