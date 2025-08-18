@@ -1,7 +1,13 @@
 # Multi-Factor Long/Short Equity Backtester (C++)
 
-This project implements a simple **multi-factor equity long/short strategy backtester** in **C++**, designed for performance and flexibility.  
-It calculates factors, ranks stocks, builds portfolios, and evaluates strategy performance.
+## About this Project
+This repository contains a **C++-based multi-factor equity backtester** designed to evaluate long/short portfolio strategies using momentum and volatility signals. Built as part of my ongoing work in quantitative research and trading strategy development, it demonstrates my ability to:
+
+- **Implement finance-relevant algorithms in performance-oriented C++.**
+- **Structure code for scalability, factor extensibility, and fast computation.**
+- **Combine quantitative finance concepts with robust software engineering.**
+
+While much of my professional quant work has been in **Python, R, and kdb+/q**, this project showcases how I can translate research logic into **production-style C++ applications** — a key skill for hedge funds, prop shops, and systematic trading teams that require both research insight and low-latency implementation.
 
 ---
 
