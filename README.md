@@ -3,7 +3,7 @@
 <img width="700" height="450" alt="cumulative_returns" src="https://github.com/user-attachments/assets/344be388-9350-4b77-bd6e-8e164c9934d5" />
 
 ## About this Project
-This repository contains a **C++-based multi-factor equity backtester** designed to evaluate long/short portfolio strategies using momentum and volatility signals. Built as part of my ongoing work in quantitative research and trading strategy development, it demonstrates my ability to:
+This repository contains a **C++-based multi-factor equity backtester** designed to evaluate long/short portfolio strategies using canonical momentum and volatility signals. Built as part of my ongoing work in quantitative research and trading strategy development, it demonstrates my ability to:
 
 - Implement finance-relevant algorithms in **performance-oriented C++**
 - Structure code for scalability, factor extensibility, and fast computation
@@ -41,6 +41,7 @@ g++ src/main.cpp src/data_loader.cpp src/factors.cpp src/backtester.cpp -o backt
 ```
 
 ### Backtest Results
+Mag 7, 10 yr:
 
 | Metric            | Value    |
 |-------------------|----------|
